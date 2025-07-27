@@ -20,8 +20,8 @@ No HAL or CubeMX libraries are used — only direct peripheral register access.
 ## Hardware Requirements
 
 - STM32F4-series MCU (e.g., STM32F401, STM32F407)
-- UART-to-USB converter (e.g., FTDI, CP2102) or virtual COM port
-- Serial terminal software (PuTTY, Tera Term, minicom, etc.)
+- UART-to-USB converter (e.g., FTDI, CP2102) or virtual COM port (if ur board is not the classic nucleo or development board) 
+- Serial terminal software (RealTerm)
 
 ### Connections
 
